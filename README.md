@@ -35,6 +35,7 @@ This project provides a Dockerized setup for a MERN (MongoDB, Express.js, React,
 5. **Access The App:**
 
    Client (React app): Open http://localhost:3000 in your browser.
+   
    API (Node.js server): Access the API endpoints at http://localhost:5000.
 
 6. **Clean Up:**
